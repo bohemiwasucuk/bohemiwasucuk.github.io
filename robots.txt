@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohemiwasucuk.github.io/sitemap.xml
